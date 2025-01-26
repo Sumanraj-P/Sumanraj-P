@@ -31,3 +31,10 @@ Software Engineer and Full Stack Developer
 </div>
 
 ###
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumanraj-P/Sumanraj-P/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumanraj-P/Sumanraj-P/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sumanraj-P/Sumanraj-P/output/github-snake.svg" />
+</picture>
