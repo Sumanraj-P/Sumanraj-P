@@ -20,9 +20,6 @@ Software Engineer and Full Stack Developer
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/psumanraj_10?theme=dark&font=Titillium%20Web&ext=heatmap)
 
-
-<img src="https://raw.githubusercontent.com/Sumanraj-P/Sumanraj-P/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
